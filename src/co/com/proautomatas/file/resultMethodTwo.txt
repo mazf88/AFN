@@ -1,0 +1,14 @@
+agregando estado: q0
+agregando estado: q1
+agregando simbolo: 0
+agregando simbolo: 1
+Fila: 0 columna: 0 add: q1
+Fila: 0 columna: 1 add: q0
+Fila: 1 columna: 0 add: q0
+Fila: 1 columna: 1 add: q1
+Estados finales: q0
+Del estado q0 procesando el simbolo : 1 pasó al estado: q0
+Del estado q0 procesando el simbolo : 0 pasó al estado: q1
+Del estado q0 procesando el simbolo : 0 pasó al estado: q0
+Del estado q0 procesando el simbolo : 1 pasó al estado: q0
+Linea 1: La palabra 1001, fue aceptada
